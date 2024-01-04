@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1704212178 source:d:\tubes semester 3\struktur data\gudang\gudang.cpp
+	"gudang.h"
+
+1704213015 d:\tubes semester 3\struktur data\gudang\gudang.h
+	<iostream>
+	<string>
+
+1704212713 source:d:\tubes semester 3\struktur data\gudang\main.cpp
+	<iostream>
+	"gudang.h"
+
